@@ -1,4 +1,7 @@
-<h1 align="center">📚 Sohaib Baloch's Study Notes</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=F7768E&center=true&vCenter=true&width=600&lines=%F0%9F%93%9A+Sohaib+Baloch's+Study+Notes" alt="Typing SVG Title" />
+</p>
+
 
 <p align="center">
   Welcome to my personal notes repository — a structured archive of knowledge, insights, and study material gathered throughout my academic and self-learning journey.
